@@ -26,7 +26,7 @@
 - 🐍 I love Python programming language.
 - 🐾 I’m looking for help with Search Engine.
 - 📫 How to reach me : [Twitter - Adipati Dolken](https://twitter.com/coudleRose)
-- 🌐 Official Website : [Website - Diversity Projects](https://diversityprojects.blogspot.com/?m=1)
+- 🌐 Official Blogspot : [Blogspot - Diversity Projects](https://diversityid.blogspot.com/?m=1)
 - 🎩 Seniman NU Jakarta.
 - ☕ Coffee Addict.
 ---
