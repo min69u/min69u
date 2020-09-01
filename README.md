@@ -26,10 +26,17 @@
 - 🐍 I love Python programming language.
 - 🐾 I’m looking for help with Search Engine.
 - 📫 How to reach me : [Twitter - Adipati Dolken](https://twitter.com/coudleRose)
-- 🌐 Official Blogspot : [Blogspot - Diversity Projects](https://diversityid.blogspot.com/?m=1)
+- 🌐 Official Blogspot : [Diversity Projects](https://diversityid.blogspot.com/?m=1)
 - 🎩 Seniman NU Jakarta.
 - ☕ Coffee Addict.
 ---
+<!-- Spotify Stuff -->
+
+[![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://open.spotify.com/user/dpsnmfot9q3vta4bi89ih73fe)
+
+<!-- LastFM Scrobbles -->
+
+[![LastFM](https://adipati-lastfm.vercel.app/api?user=adipati__&count=3&width=480)](https://www.last.fm/user/adipati__ )
 **Languages and Tools:** 
 
 <!-- Your github readme stats
