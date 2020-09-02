@@ -32,7 +32,7 @@
 ---
 <!-- Spotify Stuff -->
 
-[![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://spotify-github-profile.vercel.app/api/view?uid=dpsnmfot9q3vta4bi89ih73fe&cover_image=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dpsnmfot9q3vta4bi89ih73fe&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=dpsnmfot9q3vta4bi89ih73fe&redirect=true)
 
 <!-- LastFM Scrobbles -->
 
