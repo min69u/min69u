@@ -41,7 +41,7 @@
 ___
 **My Latest Tweet:**
 
-<br><br><a href="https://twitter.com/NGGJNCK" target="_blank">
+<br><br><a href="https://twitter.com/coudleRose" target="_blank">
 
 	<img src="https://github.com/AnggaR96s/AnggaR96s/raw/master/tweet.png" width="100%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 
