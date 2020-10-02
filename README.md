@@ -28,7 +28,7 @@
 - 📫 How to reach me : [Twitter - Adipati Dolken](https://twitter.com/coudleRose)
 - 🌐 Official Blogspot : [Diversity Projects](https://diversityid.blogspot.com/?m=1)
 - 🎩 Seniman NU Jakarta.
-- ⚽ Futsal Player.
+- ⚽ Futsal Addict.
 ---
 <!-- Spotify Stuff -->
 
