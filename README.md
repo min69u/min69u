@@ -19,7 +19,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
 - 🎬 I’m now Projects at [Diversity Project on Youtube](https://www.youtube.com/channel/UC0xfcbGeAIOLRW2g3eXid5Q)
 - 🌱 I’m currently learning Android Development.
