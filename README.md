@@ -25,8 +25,7 @@
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🐾 I’m looking for help with Search Engine.
-- 📫 How to reach me : [Twitter - Adipati Dolken](https://twitter.com/coudleRose)
-- 🌐 Website : [Diversity Projects](https://linktr.ee/min69u)
+- 🌐 Website : [Awan Semesta](https://linktr.ee/min69u)
 - ☕ Coffe Addict 
 ---
 <!-- Spotify Stuff -->
