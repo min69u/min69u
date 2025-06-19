@@ -32,7 +32,7 @@
 ---
 <!-- Spotify Stuff -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vu79g3i6d2etOgvInt08v42uw&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=vu79g3i6d2etOgvInt08v42uw&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- LastFM Scrobbles -->
 
