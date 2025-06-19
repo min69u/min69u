@@ -32,7 +32,7 @@
 ---
 <!-- Spotify Stuff -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dpsnmfot9q3vta4bi89ih73fe&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=vu79g3i6d2etOgvInt08v42uw&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vu79g3i6d2etOgvInt08v42uw&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=vu79g3i6d2etOgvInt08v42uw&redirect=true)
 
 <!-- LastFM Scrobbles -->
 
