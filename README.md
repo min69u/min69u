@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm SylviaOne, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Adipati Dolken, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
 ---
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-<a href="https://github.com/SylviaOne"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/min69u"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.twitter.com/min69u/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:innerbeautykylla@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
@@ -21,12 +21,10 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
-- 🎬 My Channel Youtube [Diversity Project](https://youtube.com/@diversityproject_id)
-- 🌱 I’m currently learning Android Development.
-- 🐍 I love Python programming language.
-- 🐾 I’m looking for help with Search Engine.
-- 🌐 Website : [Awan Semesta](https://linktr.ee/min69u)
-- ☕ Coffe Addict 
+• 🌱 I’m currently learning Android Development.
+• 🐍 I love Python programming language.
+• 🐾 I’m looking for help with Search Engine.
+• ☕ Coffe Addict 
 ---
 <!-- Spotify Stuff -->
 
@@ -52,8 +50,8 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/SlyviaOne">
-    <img width="55%" align="right" alt="SylviaOne github stats" src="https://github-readme-stats.vercel.app/api?username=SylviaOne&show_icons=true&hide_border=true" />
+  <a href="https://github.com/min69u">
+    <img width="55%" align="right" alt="min69u github stats" src="https://github-readme-stats.vercel.app/api?username=min69u&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
