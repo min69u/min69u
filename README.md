@@ -25,7 +25,8 @@
 - 🌱 I’m currently learning Android Development.
 - 🐍 I love Python programming language.
 - 🐾 I’m looking for help with Search Engine.
-- ☕ Coffe Addict
+- 🎧 Audiophile.
+- ☕ Coffe Addict.
 ---
 <!-- Spotify Stuff -->
 
