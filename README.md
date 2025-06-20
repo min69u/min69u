@@ -23,7 +23,6 @@
 
 - 🌐 Official Website: [Website](https://linktr.ee/min69u)
 - 🌱 I’m currently learning Android Development.
-- 🐍 I love Python programming language.
 - 🐾 I’m looking for help with Search Engine.
 - 🎧 Audiophile.
 - ☕ Coffe Addict.
