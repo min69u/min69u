@@ -31,7 +31,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&redirect=true)
 <!-- LastFM Scrobbles -->
 [![LastFM](https://angga-lastfm.vercel.app/api?user=coudlerose&count=3&width=480)](https://www.last.fm/user/coudleRose)
-![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=radical&date_format=j%20M%5B%20Y%5D)
 ---
 <!-- This readme was created by Angga - https://github.com/AnggaR96s -->
 
