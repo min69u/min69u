@@ -103,7 +103,7 @@ PHP                      6 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/AnggaR96s/AnggaR96s/blob/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/min69u/min69u/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
