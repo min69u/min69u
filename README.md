@@ -34,7 +34,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=radical&date_format=j%20M%5B%20Y%5D)
 ---
-<!-- This readme was created by Angga - https://github.com/AnggaR96s -->
+<!-- This readme was created by Adipati Dolken- https://github.com/min69u -->
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
