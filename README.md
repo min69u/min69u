@@ -24,8 +24,8 @@
 - 🌐 Official Website: [Website](https://linktr.ee/min69u)
 - 🌱 I’m currently learning Android Development.
 - 🐾 I’m looking for help with Search Engine.
-- 🎧 Audiophile.
-- ☕ Coffe Addict.
+- 🎧 [Tongkrongan Audio Indonesia](https://www.facebook.com/groups/751231222188632/?ref=share&mibextid=NSMWBT)
+- 🛍️ [Warung Teknologi - Wartek](https://www.facebook.com/groups/741749746532947/?ref=share&mibextid=NSMWBT)
 ---
 ### Music
 <!-- Spotify Stuff -->
