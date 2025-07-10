@@ -4,14 +4,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
 </p>
-
----
 <p align="center">
 <a href="https://github.com/min69u"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.twitter.com/min69u"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:innerbeautykylla@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href="mailto: innerbeautykylla@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
+
+---
+![Metrics](https://github.com/min69u/Metrics/blob/main/github-metrics.svg)
 
 ---
 <!-- Talking about you -->
