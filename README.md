@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/min69u"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/coudlerose"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.twitter.com/min69u"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.twitter.com/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
 <a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
 <a href="https://linktr.ee/SylviaOne"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-white?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto" /></a>
 <a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
@@ -30,7 +30,7 @@
 - 🐾 I’m looking for help with Search Engine.
 - 🎧 [Tongkrongan Audio Indonesia](https://www.facebook.com/groups/751231222188632/?ref=share&mibextid=NSMWBT)
 - 🛍️ [Warung Teknologi - Wartek](https://www.facebook.com/groups/741749746532947/?ref=share&mibextid=NSMWBT)
- 📼 [Earbud Lover Indonesia](https://www.facebook.com/groups/EarbudLoverIndonesia/?ref=share&mibextid=NSMWBT)
+- 📼 [Earbud Lover Indonesia](https://www.facebook.com/groups/EarbudLoverIndonesia/?ref=share&mibextid=NSMWBT)
 ---
 ### Music
 <!-- Spotify Stuff -->
