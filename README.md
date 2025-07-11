@@ -18,6 +18,7 @@
 ---
 ![Metrics](https://github.com/min69u/Metrics/blob/main/github-metrics.svg)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=radical&date_format=j%20M%5B%20Y%5D)
 ---
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -40,10 +41,3 @@
 
 <!-- LastFM Scrobbles -->
 [![LastFM](https://angga-lastfm.vercel.app/api?user=coudlerose&count=3&width=480)](https://www.last.fm/user/coudleRose)
-
-### Stats
-[![Profile Views](https://komarev.com/ghpvc/?username=min69u&style=for-the-badge&label=PROFILE+VIEWS&labelColor=21262d&color=238636)](https://github.com/min69u)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=radical&date_format=j%20M%5B%20Y%5D)
-
----
