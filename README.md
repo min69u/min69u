@@ -17,12 +17,6 @@
 ---
 ![Metrics](https://github.com/min69u/Metrics/blob/main/github-metrics.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/min69u/min69u/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/min69u/min69u/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/min69u/min69u/output/pacman-contribution-graph.svg">
-</picture>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=radical&date_format=j%20M%5B%20Y%5D)
 ---
 ### Music
