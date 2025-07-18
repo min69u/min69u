@@ -36,14 +36,16 @@
 
 ---
 <details>
-  <summary>▼ **Talking about Personal Stuffs:**</summary>
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.>
+  <summary><b>📌 Talking about Personal Stuffs</b></summary>
 
-- 🌱 I’m currently learning Android Development.
-- 🐾 I’m looking for help with Search Engine.
-- 🎙️ [Tongkrongan Audio Indonesia](https://www.facebook.com/groups/751231222188632/?ref=share&mibextid=NSMWBT)
-- 🛍️ [Warung Teknologi - Wartek](https://www.facebook.com/groups/741749746532947/?ref=share&mibextid=NSMWBT)
-- 📼 [Earbud Lover Indonesia](https://www.facebook.com/groups/EarbudLoverIndonesia/?ref=share&mibextid=NSMWBT)
+  <!-- Any image aligned to the right. Beware the width -->
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
+
+  - 🌱 I’m currently learning Android Development.
+  - 🐾 I’m looking for help with Search Engine.
+  - 🎙️ [Tongkrongan Audio Indonesia](https://www.facebook.com/groups/751231222188632/?ref=share&mibextid=NSMWBT)
+  - 🛍️ [Warung Teknologi - Wartek](https://www.facebook.com/groups/741749746532947/?ref=share&mibextid=NSMWBT)
+  - 📼 [Earbud Lover Indonesia](https://www.facebook.com/groups/EarbudLoverIndonesia/?ref=share&mibextid=NSMWBT)
 
 </details>
+---
