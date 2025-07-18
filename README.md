@@ -48,4 +48,3 @@
   - 📼 [Earbud Lover Indonesia](https://www.facebook.com/groups/EarbudLoverIndonesia/?ref=share&mibextid=NSMWBT)
 
 </details>
----
