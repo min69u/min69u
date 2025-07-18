@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
 </p>
 <p align="center">
-<a href="https://github.com/min69u"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/coudlerose"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://www.twitter.com/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
 <a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
