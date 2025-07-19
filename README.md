@@ -18,9 +18,9 @@
 ![Metrics](https://github.com/min69u/Metrics/blob/main/github-metrics.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/min69u/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/min69u/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/min69u/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=radical&date_format=j%20M%5B%20Y%5D)
