@@ -12,6 +12,7 @@
 <a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="https://facebook.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat&logo=facebook&logoColor=%23FFFFFF&logoSize=auto" /></a>
 <a href="mailto:adikurniaone@proton.me"> <img alt="Static Badge" src="https://img.shields.io/badge/Proton%20Mail-%236D4AFF?style=flat&logo=protonmail&logoColor=%23ffffff" /></a>
+<a href="https://www.buymeacoffee.com/min69u"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px" /></a>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=min69u"> <img src="https://visitor-badge.laobi.icu/badge?page_id=min69u" /></a></p>
 
 ---
