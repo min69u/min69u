@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Adipati Dolken, from Indonesian. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Raden Mas Adi, from Indonesian. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
 <p align="center">
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
