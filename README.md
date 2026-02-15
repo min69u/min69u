@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Raden Mas, from Indonesian. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
+## Hi, I'm Raden Mas Adip, from Indonesian. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
 <div align="center">
   <picture>
