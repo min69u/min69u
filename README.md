@@ -1,10 +1,19 @@
 <!-- Your title -->
 ## Hi, I'm Raden Mas, from Indonesian. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
-</p>
-<p align="center">
+<!-- <div align="center" margin="none"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="prod-assets/particle-GITHUB-black.gif">
+  <source media="(prefers-color-scheme: light)" srcset="prod-assets/particle-GITHUB-white.gif">
+  <img src="prod-assets/particle-GITHUB-black.gif" />
+</picture></div> -->
+
+<div align="center" margin="none"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/GITHUB_IS_MAGIC.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/GITHUB_IS_MAGIC_LIGHT.svg">
+  <img src="assets/GITHUB_IS_MAGIC.svg" alt="GitHub is magic"/>
+</picture></div>
+
+<picture>
 <a href="https://www.twitter.com/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
 <a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
 <a href="https://linktr.ee/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-white?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto" /></a>
