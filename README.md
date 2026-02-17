@@ -8,6 +8,7 @@
     <img src="https://raw.githubusercontent.com/min69u/min69u/master/assets/GITHUB_IS_MAGIC.svg" alt="GitHub is magic">
   </picture>
 </div>
+<p align="center">
 <a href="https://www.twitter.com/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
 <a href="https://bsky.app/profile/coudlerose.tired.io"> <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-%231185FE?style=flat&logo=bluesky&logoColor=white&logoSize=auto" /></a>
 <a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
