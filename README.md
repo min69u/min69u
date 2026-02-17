@@ -21,7 +21,7 @@
 <a href="https://patreon.com/coudleRose"><img alt="Static Badge" src="https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white&logoSize=auto" /></a>
 <a href="https://paypal.me/assdolken?country.x=ID&locale.x=id_ID"><img alt="Static Badge" src="https://img.shields.io/badge/Paypal-%23003087?style=flat&logo=paypal&logoColor=white&logoSize=auto" /></a>
 <a href="https://ko-fi.com/phonegraphy"><img alt="Static Badge" src="https://img.shields.io/badge/Ko--Fi-%23FF6433?style=flat&logo=kofi&logoColor=white&logoSize=auto" /></a>
-<a href="https://www.buymeacoffee.com/min69u"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px" /></a>
+<a href="https://www.buymeacoffee.com/min69u"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px" /></a><br>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=min69u"> <img src="https://visitor-badge.laobi.icu/badge?page_id=min69u" /></a></p>
 
 ---
