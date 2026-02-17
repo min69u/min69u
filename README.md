@@ -34,7 +34,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/min69u/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=radical&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=blue-navy&date_format=j%20M%5B%20Y%5D)
 
 [![min69u's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=min69u&theme=react-dark)](https://github.com/min69u)
 
