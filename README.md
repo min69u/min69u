@@ -12,7 +12,7 @@
 <a href="https://www.twitter.com/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
 <a href="https://bsky.app/profile/coudlerose.tired.io"> <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-%231185FE?style=flat&logo=bluesky&logoColor=white&logoSize=auto" /></a>
 <a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
-<a href="https://linktr.ee/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-white?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto" /></a>
+<a href="https://linktr.ee/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktr.ee-%2343E55E?style=flat&logo=linktree&logoColor=black&logoSize=auto” /></a>
 <a href="https://facebook.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat&logo=facebook&logoColor=%23FFFFFF&logoSize=auto" /></a>
 <a href="https://www.instagram.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23FF0069?style=flat&logo=instagram&logoColor=white&logoSize=auto" /></a>
 <a href="mailto:adikurniaone@proton.me"> <img alt="Static Badge" src="https://img.shields.io/badge/Proton%20Mail-%236D4AFF?style=flat&logo=protonmail&logoColor=%23ffffff" /></a>
