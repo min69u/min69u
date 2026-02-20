@@ -41,6 +41,7 @@
 ---
 ### Music
 <!-- Spotify Stuff -->
+
 [![Spotify](https://spotify-xi.vercel.app/api/spotify)](https://open.spotify.com/user/vu79g3i6d2et0gvlnt08v42uw)
 
 [![Last.fm](https://img.shields.io/badge/coudleRose-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/coudleRose)
