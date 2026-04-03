@@ -10,7 +10,7 @@
 </div>
 <p align="center">
 <a href="https://www.twitter.com/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
-<a href="https://bsky.app/profile/coudlerose.tired.io"> <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-%231185FE?style=flat&logo=bluesky&logoColor=white&logoSize=auto" /></a>
+<a href="https://bsky.app/profile/coudlerose.bsky.social"> <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-%231185FE?style=flat&logo=bluesky&logoColor=white&logoSize=auto" /></a>
 <a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
 <a href="https://linktr.ee/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktr.ee-%2343E55E?style=flat&logo=linktree&logoColor=white&logoSize=auto" /></a>
 <a href="https://facebook.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat&logo=facebook&logoColor=%23FFFFFF&logoSize=auto" /></a>
