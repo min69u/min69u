@@ -40,7 +40,7 @@
 
 </div>
 
-[![min69u's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=min69u&theme=react)](https://github.com/min69u)
+[![min69u's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=min69u&theme=react)](https://github.com/min69u)
 
 ---
 ### Music
