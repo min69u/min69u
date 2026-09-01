@@ -38,9 +38,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=react&date_format=j%20M%5B%20Y%5D)
 
-</div>
-
-[![min69u's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=min69u&theme=react)](https://github.com/min69u)
 
 ---
 ### Music
