@@ -15,7 +15,7 @@
 <a href="https://linktr.ee/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktr.ee-%2343E55E?style=flat&logo=linktree&logoColor=white&logoSize=auto" /></a>
 <a href="https://facebook.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?style=flat&logo=facebook&logoColor=%23FFFFFF&logoSize=auto" /></a>
 <a href="https://www.instagram.com/coudlerose"> <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23FF0069?style=flat&logo=instagram&logoColor=white&logoSize=auto" /></a>
-<a href="https://www.behance.net/min69u"><img alt="Static Badge" src="https://img.shields.io/badge/Behance-%231769FF?style=flat&logo=behance&logoColor=white&logoSize=auto" /></a>
+<a href="https://the.fotoapp.co/min69u"><img alt="Static Badge" src="https://img.shields.io/badge/Gallery-%2324FF00?style=flat&logo=icq&logoColor=white&logoSize=auto" /></a>
 <a href="https://open.spotify.com/user/vu79g3i6d2et0gvlnt08v42uw"><img alt="Static Badge" src="https://img.shields.io/badge/Spotify%20-%20%231ED760?style=flat&logo=spotify&logoColor=%23FFFFFF&logoSize=auto" /></a>
 <a href="https://anilist.co/user/min69u"> <img alt="Static Badge" src="https://img.shields.io/badge/AnimeList-%2302A9FF?style=flat&logo=anilist&logoColor=white" /></a>
 <a href="https://sourceforge.net/projects/gengkapak"><img alt="Static Badge" src="https://img.shields.io/badge/Sourceforge-%23FF6600?style=flat&logo=sourceforge&logoColor=white" /></a>
