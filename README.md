@@ -45,9 +45,7 @@
 
 <div align="left">
 
-<!-- Spotify Stuff -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=vu79g3i6d2et0gvlnt08v42uw&redirect=true)
-
+<!-- Music Stuff -->
 [![My Last.fm](https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=coudleRose&theme=dark)](https://www.last.fm/user/coudleRose)
 
 [![Last.fm](https://img.shields.io/badge/coudleRose-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/coudleRose)
