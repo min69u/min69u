@@ -30,9 +30,9 @@
 ![Metrics](https://github.com/min69u/Metrics/blob/main/github-metrics.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/min69u/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/min69u/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/min69u/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/min69u/min69u/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/min69u/min69u/output/github-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/min69u/min69u/output/github-snake.svg">
 </picture>
 
 <div align="center">
