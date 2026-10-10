@@ -46,7 +46,17 @@
 <div align="left">
 
 <!-- Music Stuff -->
-[![My Last.fm](https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=coudleRose&theme=dark)](https://www.last.fm/user/coudleRose)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=coudleRose&amp;theme=dark">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=coudleRose&amp;theme=light">
+  <img
+    src="https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=coudleRose&amp;theme=light"
+    alt="My Last.fm">
+</picture>
 
 [![Last.fm](https://img.shields.io/badge/coudleRose-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/coudleRose)
 <!-- LastFM Scrobbles -->
