@@ -50,8 +50,17 @@
 
 [![Last.fm](https://img.shields.io/badge/coudleRose-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/coudleRose)
 <!-- LastFM Scrobbles -->
-[![LastFM](https://angga-lastfm.vercel.app/api?user=coudlerose&count=3&width=480)](https://www.last.fm/user/coudleRose)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=coudleRose&stats=block-center&footer=wave&count=3&theme=dark">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=coudleRose&stats=block-center&footer=wave&count=3&theme=light">
+  <img
+    src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=coudleRose&stats=block-center&footer=wave&count=3&theme=light"
+    alt="Last.fm Recently Played — coudleRose">
+</picture>
 
 ---
 <details>
