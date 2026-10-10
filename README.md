@@ -43,10 +43,10 @@
     srcset="https://streak-stats.demolab.com?user=min69u&theme=react">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=min69u&theme=github-light">
+    srcset="https://streak-stats.demolab.com?user=min69u&theme=react">
   <img
-    src="https://streak-stats.demolab.com?user=min69u&theme=github-light"
-    alt="GitHub Streak Stats">
+    src="https://streak-stats.demolab.com?user=min69u&theme=react"
+    alt="GitHub Streak">
 </picture>
 
 ---
