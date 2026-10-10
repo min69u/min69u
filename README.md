@@ -37,8 +37,17 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=min69u&theme=react&date_format=j%20M%5B%20Y%5D)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=min69u&theme=github-dark&date_format=j%20M%5B%20Y%5D">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=min69u&theme=github-light&date_format=j%20M%5B%20Y%5D">
+  <img
+    src="https://streak-stats.demolab.com?user=min69u&theme=github-light&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak Stats">
+</picture>
 
 ---
 ### NoHiResNoEargasm 🎧
