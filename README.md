@@ -40,15 +40,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=min69u&theme=react">
+    srcset="https://streak-stats.demolab.com?user=min69u&theme=react&background=0d1117">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=min69u&theme=react">
+    srcset="https://streak-stats.demolab.com?user=min69u&theme=react&background=ffffff">
   <img
-    src="https://streak-stats.demolab.com?user=min69u&theme=react"
+    src="https://streak-stats.demolab.com?user=min69u&theme=react&background=ffffff"
     alt="GitHub Streak">
 </picture>
-
 ---
 ### NoHiResNoEargasm 🎧
 
