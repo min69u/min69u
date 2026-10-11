@@ -40,12 +40,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=min69u&theme=react&background=0d1117">
+    srcset="https://streak-stats.demolab.com?user=min69u&theme=react">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=min69u&theme=react&background=ffffff">
+    srcset="https://streak-stats.demolab.com?user=min69u&theme=graywhite">
   <img
-    src="https://streak-stats.demolab.com?user=min69u&theme=graywhite&background=ffffff"
+    src="https://streak-stats.demolab.com?user=min69u&theme=graywhite"
     alt="GitHub Streak">
 </picture>
 
