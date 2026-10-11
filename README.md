@@ -45,7 +45,7 @@
     media="(prefers-color-scheme: light)"
     srcset="https://streak-stats.demolab.com?user=min69u&theme=react&background=ffffff">
   <img
-    src="https://streak-stats.demolab.com?user=min69u&theme=react&background=ffffff"
+    src="https://streak-stats.demolab.com?user=min69u&theme=graywhite&background=ffffff"
     alt="GitHub Streak">
 </picture>
 
